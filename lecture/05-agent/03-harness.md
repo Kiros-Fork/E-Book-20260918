@@ -1,4 +1,6 @@
 
+* [最近爆火的 Harness Engineering 到底是个啥？一期讲透！](https://www.youtube.com/watch?v=3DlXq9nsQOE)
+
 ## opencode
 
 opencode 如何做 harness -- 用 https://github.com/agnusdei1207/opencode-orchestrator
