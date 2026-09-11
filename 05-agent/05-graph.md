@@ -1,5 +1,7 @@
 ## ccc: loop engineering 之後，又有 graph engineering ，那是什麼？
 
+* [圖解](https://x.com/i/status/2097689190712692965)
+
 Loop Engineering：引入循環機制（如 Reflection, Self-Correction, ReAct），讓 LLM 可以自我檢查、重複修正（線型/單一迴圈擴展）。
 
 Graph Engineering：當任務變得極度複雜，需要多個專門 Agent、條件分支、並行處理或錯誤回溯時，線型與簡單 Loop 會變得難以維護且容易失控。Graph Engineering 將整個系統規劃為複雜網絡（非線性/多分枝拓撲結構）。
